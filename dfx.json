@@ -7,7 +7,7 @@
         "candid_gen": "http",
         "build": "npx azle message_board",
         "wasm": ".azle/message_board/message_board.wasm",
-        "gzip": false,
+        "gzip": true,
         "metadata": [
            {
               "name": "candid:service",
